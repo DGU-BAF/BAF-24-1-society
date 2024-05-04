@@ -1,0 +1,468 @@
+field_1,EMD_CD,EMD_ENG_NM,EMD_KOR_NM,SIG_CD,SIG_ENG_NM,SIG_KOR_NM,CTPRVN_CD,CTP_ENG_NM,CTP_KOR_NM,BikeRoadLength,BikeRoadCount
+0,11110101,Cheongun-dong,청운동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+1,11110102,Singyo-dong,신교동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+2,11110103,Gungjeong-dong,궁정동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+3,11110104,Hyoja-dong,효자동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+4,11110105,Changseong-dong,창성동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,290.058108298734,5
+5,11110106,Tongui-dong,통의동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,330.59518762034,5
+6,11110107,Jeokseon-dong,적선동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,89.0889616844052,3
+7,11110108,Tongin-dong,통인동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+8,11110109,Nusang-dong,누상동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+9,11110110,Nuha-dong,누하동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+10,11110111,Ogin-dong,옥인동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+11,11110112,Chebu-dong,체부동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+12,11110113,Pirun-dong,필운동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+13,11110114,Naeja-dong,내자동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+14,11110115,Sajik-dong,사직동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+15,11110116,Doryeom-dong,도렴동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+16,11110117,Dangju-dong,당주동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+17,11110118,Naesu-dong,내수동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+18,11110119,Sejongno,세종로,11110,Jongno-gu,종로구,11,Seoul,서울특별시,1450.0126590036,18
+19,11110120,Sinmunno 1(il)-ga,신문로1가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+20,11110121,Sinmunno 2(i)-ga,신문로2가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+21,11110122,Cheongjin-dong,청진동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+22,11110123,Seorin-dong,서린동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+23,11110124,Susong-dong,수송동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+24,11110125,Junghak-dong,중학동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,70.7253430336023,1
+25,11110126,Jongno 1(il)-ga,종로1가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+26,11110127,Gongpyeong-dong,공평동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+27,11110128,Gwanhun-dong,관훈동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+28,11110129,Gyeonji-dong,견지동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+29,11110130,Waryong-dong,와룡동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,648.298009204362,6
+30,11110131,Gwonnong-dong,권농동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+31,11110132,Unni-dong,운니동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,104.806131321747,1
+32,11110133,Ikseon-dong,익선동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+33,11110134,Gyeongun-dong,경운동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+34,11110135,Gwancheol-dong,관철동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+35,11110136,Insa-dong,인사동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+36,11110137,Nagwon-dong,낙원동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+37,11110138,Jongno 2(i)-ga,종로2가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+38,11110139,Palpan-dong,팔판동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,299.817284717479,6
+39,11110140,Samcheong-dong,삼청동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+40,11110141,Anguk-dong,안국동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,247.73148267983,3
+41,11110142,Sogyeok-dong,소격동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,363.403776651866,9
+42,11110143,Hwa-dong,화동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+43,11110144,Sagan-dong,사간동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,251.752031855995,3
+44,11110145,Songhyeon-dong,송현동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,211.040382849692,4
+45,11110146,Gahoe-dong,가회동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+46,11110147,Jae-dong,재동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,95.7258550817563,4
+47,11110148,Gye-dong,계동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,105.968588156061,2
+48,11110149,Wonseo-dong,원서동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+49,11110150,Hunjeong-dong,훈정동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+50,11110151,Myo-dong,묘동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+51,11110152,Bongik-dong,봉익동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+52,11110153,Donui-dong,돈의동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+53,11110154,Jangsa-dong,장사동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+54,11110155,Gwansu-dong,관수동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+55,11110156,Jongno 3(sam)-ga,종로3가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+56,11110157,Inui-dong,인의동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+57,11110158,Yeji -dong,예지동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+58,11110159,Wonnam-dong,원남동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,345.619607262226,2
+59,11110160,Yeonji-dong,연지동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+60,11110161,Jongno 4(sa)-ga,종로4가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+61,11110162,Hyoje-dong,효제동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+62,11110163,Jongno 5(o)-ga,종로5가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+63,11110164,Jongno 6(yuk)-ga,종로6가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+64,11110165,Ihwa-dong,이화동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,27.0028514447878,1
+65,11110166,Yeongeon-dong,연건동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,1490.70990591452,15
+66,11110167,Chungsin-dong,충신동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+67,11110168,Dongsung-dong,동숭동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,643.957809265489,5
+68,11110169,Hyehwa-dong,혜화동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,776.909801818502,8
+69,11110170,Myeongnyun 1(il)-ga,명륜1가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+70,11110171,Myeongnyun 2(i)-ga,명륜2가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,597.464940708114,13
+71,11110172,Myeongnyun 4(sa)-ga,명륜4가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,453.360438131991,9
+72,11110173,Myeongnyun 3(sam)-ga,명륜3가,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+73,11110174,Changsin-dong,창신동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+74,11110175,Sungin-dong,숭인동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+75,11110176,Gyonam-dong,교남동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+76,11110177,Pyeong-dong,평동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+77,11110178,Songwol-dong,송월동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+78,11110179,Hongpa-dong,홍파동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+79,11110180,Gyobuk-dong,교북동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+80,11110181,Haengchon-dong,행촌동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+81,11110182,Gugi-dong,구기동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+82,11110183,Pyeongchang-dong,평창동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+83,11110184,Buam-dong,부암동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+84,11110185,Hongji-dong,홍지동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+85,11110186,Sinyeong-dong,신영동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+86,11110187,Muak-dong,무악동,11110,Jongno-gu,종로구,11,Seoul,서울특별시,0,0
+87,11140101,Mugyo-dong,무교동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+88,11140102,Da-dong,다동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+89,11140103,Taepyeongno 1(il)-ga,태평로1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+90,11140104,Euljiro 1(il)-ga,을지로1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+91,11140105,Euljiro 2(i)-ga,을지로2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+92,11140106,Namdaemunno 1(il)-ga,남대문로1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+93,11140107,Samgak-dong,삼각동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+94,11140108,Suha-dong,수하동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+95,11140109,Janggyo-dong,장교동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+96,11140110,Supyo-dong,수표동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+97,11140111,Sogong-dong,소공동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+98,11140112,Namchang-dong,남창동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+99,11140113,Bukchang-dong,북창동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+100,11140114,Taepyeongno 2(i)-ga,태평로2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+101,11140115,Namdaemunno 2(i)-ga,남대문로2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+102,11140116,Namdaemunno 3(sam)-ga,남대문로3가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+103,11140117,Namdaemunno 4(sa)-ga,남대문로4가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+104,11140118,Namdaemunno 5(o)-ga,남대문로5가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+105,11140119,Bongnae-dong 1(il)-ga,봉래동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+106,11140120,Bongnae-dong 2(i)-ga,봉래동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+107,11140121,Hoehyeon-dong 1(il)-ga,회현동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+108,11140122,Hoehyeon-dong 2(i)-ga,회현동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+109,11140123,Hoehyeon-dong 3(sam)-ga,회현동3가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+110,11140124,Chungmuro 1(il)-ga,충무로1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+111,11140125,Chungmuro 2(i)-ga,충무로2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+112,11140126,Myeong-dong 1(il)-ga,명동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+113,11140127,Myeong-dong 2(i)-ga,명동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+114,11140128,Namsan-dong 1(il)-ga,남산동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+115,11140129,Namsan-dong 2(i)-ga,남산동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+116,11140130,Namsan-dong 3(sam)-ga,남산동3가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+117,11140131,Jeo-dong 1(il)-ga,저동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+118,11140132,Chungmuro 4(sa)-ga,충무로4가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+119,11140133,Chungmuro 5(o)-ga,충무로5가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+120,11140134,Inhyeon-dong 2(i)-ga,인현동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+121,11140135,Yegwan-dong,예관동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+122,11140136,Mukjeong-dong,묵정동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+123,11140137,Pil-dong 1(il)-ga,필동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+124,11140138,Pildong 2(i)-ga,필동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+125,11140139,Pil-dong 3(sam)-ga,필동3가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+126,11140140,Namhak-dong,남학동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+127,11140141,Juja-dong,주자동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+128,11140142,Yejang-dong,예장동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+129,11140143,Jangchung-dong 1(il)-ga,장충동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+130,11140144,Jangchung-dong 2(i)-ga,장충동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,2439.16496831166,22
+131,11140145,Gwanghui-dong 1(il)-ga,광희동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+132,11140146,Gwanghui-dong 2(i)-ga,광희동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+133,11140147,Ssangnim-dong,쌍림동,11140,Jung-gu,중구,11,Seoul,서울특별시,347.481703743004,9
+134,11140148,Euljiro 6(yuk)-ga,을지로6가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+135,11140149,Euljiro 7(chil)-ga,을지로7가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+136,11140150,Euljiro 4(sa)-ga,을지로4가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+137,11140151,Euljiro 5(o)-ga,을지로5가,11140,Jung-gu,중구,11,Seoul,서울특별시,178.548478810554,3
+138,11140152,Jugyo-dong,주교동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+139,11140153,Bangsan-dong,방산동,11140,Jung-gu,중구,11,Seoul,서울특별시,203.76279682268,1
+140,11140154,Ojang-dong,오장동,11140,Jung-gu,중구,11,Seoul,서울특별시,6.2977754664827,1
+141,11140155,Euljiro 3(sam)-ga,을지로3가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+142,11140156,Ipjeong-dong,입정동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+143,11140157,Sallim-dong,산림동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+144,11140158,Chungmuro 3(sam)-ga,충무로3가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+145,11140159,Cho-dong,초동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+146,11140160,Inhyeon-dong 1(il)-ga,인현동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+147,11140161,Jeo-dong 2(i)-ga,저동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+148,11140162,Sindang-dong,신당동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+149,11140163,Heungin-dong,흥인동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+150,11140164,Muhak-dong,무학동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+151,11140165,Hwanghak-dong,황학동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+152,11140166,Seosomun-dong,서소문동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+153,11140167,Jeong-dong,정동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+154,11140168,Sunhwa-dong,순화동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+155,11140169,Uijuro 1(il)-ga,의주로1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+156,11140170,Chungjeongno 1(il)-ga,충정로1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+157,11140171,Jungnim-dong,중림동,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+158,11140172,Uijuro 2(i)-ga,의주로2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+159,11140173,Malli-dong 1(il)-ga,만리동1가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+160,11140174,Malli-dong 2(i)-ga,만리동2가,11140,Jung-gu,중구,11,Seoul,서울특별시,0,0
+161,11170101,Huam-dong,후암동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+162,11170102,yongsan-dong  2(i)-ga,용산동2가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,572.689335657077,6
+163,11170103,Yongsan-dong 4(sa)-ga,용산동4가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,1549.16046366985,6
+164,11170104,Garwol-dong,갈월동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,223.904421419468,2
+165,11170105,Namyeong-dong,남영동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+166,11170106,Yongsan-dong 1(il)-ga,용산동1가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,713.362427008936,6
+167,11170107,Dongja-dong,동자동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+168,11170108,Seogye-dong,서계동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+169,11170109,Cheongpa-dong 1(il)-ga,청파동1가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+170,11170110,Cheongpa-dong 2(i)-ga,청파동2가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+171,11170111,Cheongpa-dong 3(sam)-ga,청파동3가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+172,11170112,Wonhyoro 1(iI)-ga,원효로1가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,125.995809797071,1
+173,11170113,Wonhyoro 2(i)-ga,원효로2가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+174,11170114,Sinchang-dong,신창동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+175,11170115,Sancheon-dong,산천동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+176,11170116,Cheongam-dong,청암동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,263.070262883431,5
+177,11170117,Wonhyoro 3(sam)-ga,원효로3가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+178,11170118,Wonhyoro 4(sa)-ga,원효로4가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,619.125673612641,11
+179,11170119,Hyochang-dong,효창동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+180,11170120,Dowon-dong,도원동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+181,11170121,Yongmun-dong,용문동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+182,11170122,Munbae-dong,문배동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,439.639050756622,4
+183,11170123,Singye-dong,신계동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+184,11170124,Hangangno 1(il)-ga,한강로1가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,233.309312458683,4
+185,11170125,Hangangno 2(i)-ga,한강로2가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+186,11170126,Yongsan-dong 3(sam)-ga,용산동3가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,421.810172372846,3
+187,11170127,Yongsan-dong 5(o)-ga,용산동5가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+188,11170128,Hangangno 3(sam)-ga,한강로3가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,358.240025921314,3
+189,11170129,Ichon-dong,이촌동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,12292.7253409178,109
+190,11170130,Itaewon-dong,이태원동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,0,0
+191,11170131,Hannam-dong,한남동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,6016.80651225622,47
+192,11170132,Dongbinggo-dong,동빙고동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,243.458316365199,5
+193,11170133,Seobinggo-dong,서빙고동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,4826.99899461605,48
+194,11170134,Juseong-dong,주성동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,406.062563694773,5
+195,11170135,Yongsan-dong 6(yuk)-ga,용산동6가,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,2946.77369887162,18
+196,11170136,Bogwang-dong,보광동,11170,Yongsan-gu,용산구,11,Seoul,서울특별시,588.547716832817,10
+197,11200101,Sangwangsimni-dong,상왕십리동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,509.754805975442,3
+198,11200102,Hawangsimni-dong,하왕십리동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,300.243147103356,3
+199,11200103,Hongik-dong,홍익동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,306.274834996687,2
+200,11200104,Doseon-dong,도선동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,0,0
+201,11200105,Majang-dong,마장동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,2672.47451193391,23
+202,11200106,Sageun-dong,사근동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,1416.12290976186,20
+203,11200107,Haengdang-dong,행당동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,609.92259822631,11
+204,11200108,Eungbong-dong,응봉동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,1518.3216219978,18
+205,11200109,Geumho-dong1(il)-ga,금호동1가,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,0,0
+206,11200110,Geumho-dong2(i)-ga,금호동2가,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,0,0
+207,11200111,Geumho-dong3(sam)-ga,금호동3가,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,0,0
+208,11200112,Geumho-dong4(sa)-ga,금호동4가,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,1636.010862615,20
+209,11200113,Oksu-dong,옥수동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,4162.84429223695,21
+210,11200114,Seongsu-dong1(il)-ga,성수동1가,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,10496.1289752626,101
+211,11200115,Seongsu-dong2(i)-ga,성수동2가,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,5707.2489168536,70
+212,11200118,Songjeong-dong,송정동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,8317.34591095471,93
+213,11200122,Yongdap-dong,용답동,11200,Seongdong-gu,성동구,11,Seoul,서울특별시,6271.64772591329,84
+214,11215101,Junggok-dong,중곡동,11215,Gwangjin-gu,광진구,11,Seoul,서울특별시,15005.1894610377,298
+215,11215102,Neung-dong,능동,11215,Gwangjin-gu,광진구,11,Seoul,서울특별시,3407.80191229404,59
+216,11215103,Guui-dong,구의동,11215,Gwangjin-gu,광진구,11,Seoul,서울특별시,8416.79877365347,117
+217,11215104,Gwangjang-dong,광장동,11215,Gwangjin-gu,광진구,11,Seoul,서울특별시,9463.05989783805,97
+218,11215105,Jayang-dong,자양동,11215,Gwangjin-gu,광진구,11,Seoul,서울특별시,15550.1922516638,236
+219,11215107,Hwayang-dong,화양동,11215,Gwangjin-gu,광진구,11,Seoul,서울특별시,1785.50165828928,14
+220,11215109,Gunja-dong,군자동,11215,Gwangjin-gu,광진구,11,Seoul,서울특별시,1654.47832448209,38
+221,11230101,Sinseol-dong,신설동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,0,0
+222,11230102,Yongdu-dong,용두동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,970.179157408253,24
+223,11230103,Jegi-dong,제기동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,0,0
+224,11230104,Jeonnong-dong,전농동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,0,0
+225,11230105,Dapsipni-dong,답십리동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,1736.92308604836,41
+226,11230106,Jangan-dong,장안동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,4046.71573646292,47
+227,11230107,Cheongnyangni-dong,청량리동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,1817.80548166876,31
+228,11230108,Hoegi-dong,회기동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,0,0
+229,11230109,Hwigyeong-dong,휘경동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,1210.60262693336,12
+230,11230110,Imun-dong,이문동,11230,Dongdaemun-gu,동대문구,11,Seoul,서울특별시,1950.88559001139,21
+231,11260101,Myeonmok-dong,면목동,11260,Jungnang-gu,중랑구,11,Seoul,서울특별시,9034.90266560298,121
+232,11260102,Sangbong-dong,상봉동,11260,Jungnang-gu,중랑구,11,Seoul,서울특별시,952.794990948728,30
+233,11260103,Junghwa-dong,중화동,11260,Jungnang-gu,중랑구,11,Seoul,서울특별시,3387.90397001433,50
+234,11260104,Muk-dong,묵동,11260,Jungnang-gu,중랑구,11,Seoul,서울특별시,5047.99905270271,90
+235,11260105,Mangu-dong,망우동,11260,Jungnang-gu,중랑구,11,Seoul,서울특별시,0,0
+236,11260106,Sinnae-dong,신내동,11260,Jungnang-gu,중랑구,11,Seoul,서울특별시,5235.78620448356,85
+237,11290101,Seongbuk-dong,성북동,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,902.415267196282,9
+238,11290102,Seongbuk-dong 1(il)-ga,성북동1가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,23.8969727674084,4
+239,11290103,Donam-dong,돈암동,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+240,11290104,Dongsomun-dong 1(il)-ga,동소문동1가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,104.562614523512,7
+241,11290105,Dongsomun-dong 2(i)-ga,동소문동2가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+242,11290106,Dongsomun-dong 3(sam)-ga,동소문동3가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+243,11290107,Dongsomun-dong 4(sa)-ga,동소문동4가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+244,11290108,Dongsomun-dong 5(o)-ga,동소문동5가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+245,11290109,Dongsomun-dong 6(yuk)-ga,동소문동6가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+246,11290110,Dongsomun-dong 7(chil)-ga,동소문동7가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+247,11290111,Samseon-dong 1(il)-ga,삼선동1가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,111.360511096985,1
+248,11290112,Samseon-dong 2(i)-ga,삼선동2가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+249,11290113,Samseon-dong 3(sam)-ga,삼선동3가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+250,11290114,Samseon-dong 4(sa)-ga,삼선동4가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+251,11290115,Samseon-dong 5(o)-ga,삼선동5가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,104.948850113921,1
+252,11290116,Dongseon-dong 1(il)-ga,동선동1가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+253,11290117,Dongseon-dong 2(i)-ga,동선동2가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+254,11290118,Dongseon-dong 3(sam)-ga,동선동3가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+255,11290119,Dongseon-dong 4(sa)-ga,동선동4가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+256,11290120,Dongseon-dong 5(o)-ga,동선동5가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+257,11290121,Anam-dong 1(il)-ga,안암동1가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+258,11290122,Anam-dong 2(i)-ga,안암동2가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,611.378580311341,17
+259,11290123,Anam-dong 3(sam)-ga,안암동3가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,92.602606422306,4
+260,11290124,Anam-dong 4(sa)-ga,안암동4가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+261,11290125,Anam-dong 5(o)-ga,안암동5가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,1801.85881949732,27
+262,11290126,Bomun-dong 4(sa)-ga,보문동4가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+263,11290127,Bomun-dong 5(o)-ga,보문동5가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+264,11290128,Bomun-dong 6(yuk)-ga,보문동6가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+265,11290129,Bomun-dong 7(chil)-ga,보문동7가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+266,11290130,Bomun-dong 1(il)-ga,보문동1가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,367.427537958619,5
+267,11290131,Bomun-dong 2(i)-ga,보문동2가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+268,11290132,Bomun-dong 3(sam)-ga,보문동3가,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+269,11290133,Jeongneung-dong,정릉동,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+270,11290134,Gireum-dong,길음동,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,0,0
+271,11290135,Jongam-dong,종암동,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,1800.87489377882,39
+272,11290136,Hawolgok-dong,하월곡동,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,1163.7655029589,30
+273,11290137,Sangwolgok-dong,상월곡동,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,337.090235418023,6
+274,11290138,Jangwi-dong,장위동,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,2451.6323072589,55
+275,11290139,Seokgwan-dong,석관동,11290,Seongbuk-gu,성북구,11,Seoul,서울특별시,2765.26555603111,33
+276,11305101,Mia-dong,미아동,11305,Gangbuk-gu,강북구,11,Seoul,서울특별시,2503.16710977392,55
+277,11305102,Beon-dong,번동,11305,Gangbuk-gu,강북구,11,Seoul,서울특별시,9987.1277990345,131
+278,11305103,Suyu-dong,수유동,11305,Gangbuk-gu,강북구,11,Seoul,서울특별시,3903.57272980167,110
+279,11305104,Ui-dong,우이동,11305,Gangbuk-gu,강북구,11,Seoul,서울특별시,0,0
+280,11320105,Ssangmun-dong,쌍문동,11320,Dobong-gu,도봉구,11,Seoul,서울특별시,2792.6708463591,80
+281,11320106,Banghak-dong,방학동,11320,Dobong-gu,도봉구,11,Seoul,서울특별시,5105.31401576629,121
+282,11320107,Chang-dong,창동,11320,Dobong-gu,도봉구,11,Seoul,서울특별시,7301.91398638646,101
+283,11320108,Dobong-dong,도봉동,11320,Dobong-gu,도봉구,11,Seoul,서울특별시,7823.76568689441,101
+284,11350102,Wolgye-dong,월계동,11350,Nowon-gu,노원구,11,Seoul,서울특별시,7752.44246985192,86
+285,11350103,Gongneung-dong,공릉동,11350,Nowon-gu,노원구,11,Seoul,서울특별시,11623.9547500171,133
+286,11350104,Hagye-dong,하계동,11350,Nowon-gu,노원구,11,Seoul,서울특별시,5401.34553548517,79
+287,11350105,Sanggye-dong,상계동,11350,Nowon-gu,노원구,11,Seoul,서울특별시,42262.2640191781,734
+288,11350106,Junggye-dong,중계동,11350,Nowon-gu,노원구,11,Seoul,서울특별시,10442.3704986625,164
+289,11380101,Susaek-dong,수색동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,124.821491547911,2
+290,11380102,Nokbeon-dong,녹번동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,415.505887374196,8
+291,11380103,Bulgwang-dong,불광동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,0,0
+292,11380104,Galhyeon-dong,갈현동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,859.94583673217,11
+293,11380105,Gusan-dong,구산동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,471.488148243743,12
+294,11380106,Daejo-dong,대조동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,857.078864955488,10
+295,11380107,Eungam-dong,응암동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,3404.80237769171,58
+296,11380108,Yeokchon-dong,역촌동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,3224.27475205943,65
+297,11380109,Sinsa-dong,신사동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,62.4479101003938,5
+298,11380110,Jeungsan-dong,증산동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,263.872653893047,6
+299,11380114,Jingwan-dong,진관동,11380,Eunpyeong-gu,은평구,11,Seoul,서울특별시,3513.06244105508,4
+300,11410101,Chungjeongno 2(i)-ga,충정로2가,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+301,11410102,Chungjeongno 3(sam)-ga,충정로3가,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+302,11410103,Hap-dong,합동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+303,11410104,Migeun-dong,미근동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+304,11410105,Naengcheon-dong,냉천동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+305,11410106,Cheonyeon-dong,천연동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+306,11410107,Okcheon-dong,옥천동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+307,11410108,Yeongcheon-dong,영천동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+308,11410109,Hyeonjeo-dong,현저동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+309,11410110,Bugahyeon-dong,북아현동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+310,11410111,Hongje-dong,홍제동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,1398.05300755005,17
+311,11410112,Daehyeon-dong,대현동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+312,11410113,Daesin-dong,대신동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+313,11410114,Sinchon-dong,신촌동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+314,11410115,Bongwon-dong,봉원동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+315,11410116,Changcheon-dong,창천동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,0,0
+316,11410117,Yeonhui-dong,연희동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,3590.57237356167,60
+317,11410118,Hongeun-dong,홍은동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,2993.80012936748,54
+318,11410119,Bukgajwa-dong,북가좌동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,3566.96699471928,51
+319,11410120,Namgajwa-dong,남가좌동,11410,Seodaemun-gu,서대문구,11,Seoul,서울특별시,1236.01534039026,31
+320,11440101,Ahyeon-dong,아현동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,0,0
+321,11440102,Gongdeok-dong,공덕동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,0,0
+322,11440103,Singongdeok-dong,신공덕동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,0,0
+323,11440104,Dohwa-dong,도화동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,0,0
+324,11440105,Yonggang-dong,용강동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,237.972020810245,5
+325,11440106,Tojeong-dong,토정동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,444.056292028515,6
+326,11440107,Mapo-dong,마포동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,1347.42513280722,12
+327,11440108,Daeheung-dong,대흥동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,0,0
+328,11440109,Yeomni-dong,염리동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,0,0
+329,11440110,Nogosan-dong,노고산동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,0,0
+330,11440111,Sinsu-dong,신수동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,0,0
+331,11440112,Hyeonseok-dong,현석동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,630.543947463436,10
+332,11440113,Gusu-dong,구수동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,0,0
+333,11440114,Changjeon-dong,창전동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,112.730123104733,6
+334,11440115,Sangsu-dong,상수동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,552.573989140523,6
+335,11440116,Hajung-dong,하중동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,474.145375264085,7
+336,11440117,Sinjeong-dong,신정동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,1001.26532560857,9
+337,11440118,Dangin-dong,당인동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,1000.02446162011,6
+338,11440120,Seogyo-dong,서교동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,775.029797902244,23
+339,11440121,Donggyo-dong,동교동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,6.06277061697631,1
+340,11440122,Hapjeong-dong,합정동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,4052.45547501453,40
+341,11440123,Mangwon-dong,망원동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,4814.3978125895,63
+342,11440124,Yeonnam-dong,연남동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,1344.09920022477,15
+343,11440125,Seongsan-dong,성산동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,14394.7311348628,184
+344,11440126,Jung-dong,중동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,224.324255588124,3
+345,11440127,Sangam-dong,상암동,11440,Mapo-gu,마포구,11,Seoul,서울특별시,26762.2874373894,197
+346,11470101,Sinjeong-dong,신정동,11470,Yangcheon-gu,양천구,11,Seoul,서울특별시,21143.4969409716,276
+347,11470102,Mok-dong,목동,11470,Yangcheon-gu,양천구,11,Seoul,서울특별시,22750.2427015666,264
+348,11470103,Sinwol-dong,신월동,11470,Yangcheon-gu,양천구,11,Seoul,서울특별시,1624.75050217636,25
+349,11500101,Yeomchang-dong,염창동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,7010.34520972873,91
+350,11500102,Deungchon-dong,등촌동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,13951.6022212028,207
+351,11500103,Hwagok-dong,화곡동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,5905.88906202584,108
+352,11500104,Gayang-dong,가양동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,16018.8565160471,126
+353,11500105,Magok-dong,마곡동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,4375.92242552799,15
+354,11500106,Naebalsan-dong,내발산동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,1706.74881793699,33
+355,11500107,Oebalsan-dong,외발산동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,0,0
+356,11500108,Gonghang-dong,공항동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,817.685172770867,12
+357,11500109,Banghwa-dong,방화동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,7429.57981062026,66
+358,11500110,Gaehwa-dong,개화동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,2655.28309580374,24
+359,11500111,Gwahae-dong,과해동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,0,0
+360,11500112,Ogok-dong,오곡동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,0,0
+361,11500113,Osoe-dong,오쇠동,11500,Gangseo-gu,강서구,11,Seoul,서울특별시,0,0
+362,11530101,Sindorim-dong,신도림동,11530,Guro-gu,구로구,11,Seoul,서울특별시,6729.86040175951,82
+363,11530102,Guro-dong,구로동,11530,Guro-gu,구로구,11,Seoul,서울특별시,11760.0110113674,177
+364,11530103,Garibong-dong,가리봉동,11530,Guro-gu,구로구,11,Seoul,서울특별시,0,0
+365,11530106,Gocheok-dong,고척동,11530,Guro-gu,구로구,11,Seoul,서울특별시,3413.85172992626,59
+366,11530107,Gaebong-dong,개봉동,11530,Guro-gu,구로구,11,Seoul,서울특별시,2830.5973898185,58
+367,11530108,Oryu-dong,오류동,11530,Guro-gu,구로구,11,Seoul,서울특별시,2826.37222379601,18
+368,11530109,Gung-dong,궁동,11530,Guro-gu,구로구,11,Seoul,서울특별시,4134.03984835045,41
+369,11530110,Onsu-dong,온수동,11530,Guro-gu,구로구,11,Seoul,서울특별시,284.610323383208,6
+370,11530111,Cheonwang-dong,천왕동,11530,Guro-gu,구로구,11,Seoul,서울특별시,1126.95990280513,21
+371,11530112,Hang-dong,항동,11530,Guro-gu,구로구,11,Seoul,서울특별시,0,0
+372,11545101,Gasan-dong,가산동,11545,Geumcheon-gu,금천구,11,Seoul,서울특별시,4799.1128623755,48
+373,11545102,Doksan-dong,독산동,11545,Geumcheon-gu,금천구,11,Seoul,서울특별시,6957.22996724555,78
+374,11545103,Siheung-dong,시흥동,11545,Geumcheon-gu,금천구,11,Seoul,서울특별시,3636.45508499731,32
+375,11560101,Yeongdeungpo-dong,영등포동,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+376,11560102,Yeongdeungpo-dong 1(il)-ga,영등포동1가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+377,11560103,Yeongdeungpo-dong 2(i)-ga,영등포동2가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+378,11560104,Yeongdeungpo-dong 3(sam)-ga,영등포동3가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+379,11560105,Yeongdeungpo-dong 4(sa)-ga,영등포동4가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+380,11560106,Yeongdeungpo-dong 5(o)-ga,영등포동5가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+381,11560107,Yeongdeungpo-dong 6(yuk)-ga,영등포동6가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+382,11560108,Yeongdeungpo-dong 7(chil)-ga,영등포동7가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+383,11560109,Yeongdeungpo-dong 8(pal)-ga,영등포동8가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+384,11560110,Yeouido-dong,여의도동,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,27975.7535614703,325
+385,11560111,Dangsan-dong 1(il)-ga,당산동1가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,576.10847538759,15
+386,11560112,Dangsan-dong 2(i)-ga,당산동2가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,365.892527174135,11
+387,11560113,Dangsan-dong 3(sam)-ga,당산동3가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+388,11560114,Dangsan-dong 4(sa)-ga,당산동4가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,412.987346306136,11
+389,11560115,Dangsan-dong 5(o)-ga,당산동5가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,624.165076516945,8
+390,11560116,Dangsan-dong 6(yuk)-ga,당산동6가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,0,0
+391,11560117,Dangsan-dong,당산동,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,2670.95408723296,17
+392,11560118,Dorim-dong,도림동,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,43.577003141092,2
+393,11560119,Mullae-dong 1(il)-ga,문래동1가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,208.444522783564,2
+394,11560120,Mullae-dong 2(i)-ga,문래동2가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,317.493207316681,5
+395,11560121,Mullae-dong 3(sam)-ga,문래동3가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,3142.37047683152,53
+396,11560122,Mullae-dong 4(sa)-ga,문래동4가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,348.998544924083,5
+397,11560123,Mullae-dong 5(o)-ga,문래동5가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,2069.83901081623,32
+398,11560124,Mullae-dong 6(yuk)-ga,문래동6가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,2305.18478702356,58
+399,11560125,Yangpyeong-dong 1(il)-ga,양평동1가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,721.148884138647,25
+400,11560126,Yangpyeong-dong 2(i)-ga,양평동2가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,939.788400340123,33
+401,11560127,Yangpyeong-dong 3(sam)-ga,양평동3가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,532.798600317877,18
+402,11560128,Yangpyeong-dong 4(sa)-ga,양평동4가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,986.531884244546,15
+403,11560129,Yangpyeong-dong 5(o)-ga,양평동5가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,670.550252660452,16
+404,11560130,Yangpyeong-dong 6(yuk)-ga,양평동6가,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,133.633394414455,3
+405,11560131,Yanghwa-dong,양화동,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,6145.88365178566,60
+406,11560132,Singil-dong,신길동,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,2075.87838794704,59
+407,11560133,Daerim-dong,대림동,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,5757.85313683441,82
+408,11560134,Yangpyeong-dong,양평동,11560,Yeongdeungpo-gu,영등포구,11,Seoul,서울특별시,4184.11604405876,53
+409,11590101,Noryangjin-dong,노량진동,11590,Dongjak-gu,동작구,11,Seoul,서울특별시,1706.88175497127,22
+410,11590102,Sangdo-dong,상도동,11590,Dongjak-gu,동작구,11,Seoul,서울특별시,1613.80406954631,39
+411,11590103,Sangdo 1(il)-dong,상도1동,11590,Dongjak-gu,동작구,11,Seoul,서울특별시,601.029816400781,18
+412,11590104,Bon-dong,본동,11590,Dongjak-gu,동작구,11,Seoul,서울특별시,1717.08862021117,17
+413,11590105,Heukseok-dong,흑석동,11590,Dongjak-gu,동작구,11,Seoul,서울특별시,1630.63158020057,14
+414,11590106,Dongjak-dong,동작동,11590,Dongjak-gu,동작구,11,Seoul,서울특별시,2538.59232352887,35
+415,11590107,Sadang-dong,사당동,11590,Dongjak-gu,동작구,11,Seoul,서울특별시,2612.43264610939,50
+416,11590108,Daebang-dong,대방동,11590,Dongjak-gu,동작구,11,Seoul,서울특별시,1572.97314665421,34
+417,11590109,Sindaebang-dong,신대방동,11590,Dongjak-gu,동작구,11,Seoul,서울특별시,4017.08667109938,61
+418,11620101,Bongcheon-dong,봉천동,11620,Gwanak-gu,관악구,11,Seoul,서울특별시,12159.8267628271,223
+419,11620102,Sillim-dong,신림동,11620,Gwanak-gu,관악구,11,Seoul,서울특별시,8741.35525948154,126
+420,11620103,Namhyeon-dong,남현동,11620,Gwanak-gu,관악구,11,Seoul,서울특별시,3049.77208756511,24
+421,11650101,Bangbae-dong,방배동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,7572.94462410631,116
+422,11650102,Yangjae-dong,양재동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,12038.3633089769,179
+423,11650103,Umyeon-dong,우면동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,2924.71441748008,41
+424,11650104,Wonji-dong,원지동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,77.441386930308,2
+425,11650106,Jamwon-dong,잠원동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,5212.6466115121,49
+426,11650107,Banpo-dong,반포동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,10641.3744043786,83
+427,11650108,Seocho-dong,서초동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,3203.51500457457,38
+428,11650109,Naegok-dong,내곡동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,0,0
+429,11650110,Yeomgok-dong,염곡동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,681.483263322487,5
+430,11650111,Sinwon-dong,신원동,11650,Seocho-gu,서초구,11,Seoul,서울특별시,2039.66086490536,6
+431,11680101,Yeoksam-dong,역삼동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,3864.71002091717,68
+432,11680103,Gaepo-dong,개포동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,14027.5606449274,154
+433,11680104,Cheongdam-dong,청담동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,6030.17308708868,72
+434,11680105,Samseong-dong,삼성동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,5345.2226190194,54
+435,11680106,Daechi-dong,대치동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,16348.7125041932,168
+436,11680107,Sinsa-dong,신사동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,3513.09503293124,49
+437,11680108,Nonhyeon-dong,논현동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,5513.27753319713,90
+438,11680110,Apgujeong-dong,압구정동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,10041.215139143,89
+439,11680111,Segok-dong,세곡동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,597.351549194081,5
+440,11680112,Jagok-dong,자곡동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,3097.87628473389,14
+441,11680113,Yulhyeon-dong,율현동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,1730.01714777593,11
+442,11680114,Irwon-dong,일원동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,11448.6064490743,112
+443,11680115,Suseo-dong,수서동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,9867.76687779918,95
+444,11680118,Dogok-dong,도곡동,11680,Gangnam-gu,강남구,11,Seoul,서울특별시,7149.37664628939,83
+445,11710101,Jamsil-dong,잠실동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,29144.4640009067,271
+446,11710102,Sincheon-dong,신천동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,22109.3766639587,203
+447,11710103,Pungnap-dong,풍납동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,11832.6997758975,164
+448,11710104,Songpa-dong,송파동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,6396.54653202923,78
+449,11710105,Seokchon-dong,석촌동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,3676.45076070113,42
+450,11710106,Samjeon-dong,삼전동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,4633.3127723591,50
+451,11710107,Garak-dong,가락동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,14054.0120056922,170
+452,11710108,Munjeong-dong,문정동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,11520.3847206167,142
+453,11710109,Jangji-dong,장지동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,7581.09218803402,76
+454,11710111,Bangi-dong,방이동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,20698.6382800225,235
+455,11710112,Ogeum-dong,오금동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,8108.14986320033,122
+456,11710113,Geoyeo-dong,거여동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,3058.85132653735,63
+457,11710114,Macheon-dong,마천동,11710,Songpa-gu,송파구,11,Seoul,서울특별시,1296.86367242247,27
+458,11740101,Myeongil-dong,명일동,11740,Gangdong-gu,강동구,11,Seoul,서울특별시,10926.4433965753,183
+459,11740102,Godeok-dong,고덕동,11740,Gangdong-gu,강동구,11,Seoul,서울특별시,10330.3453603211,145
+460,11740103,Sangil-dong,상일동,11740,Gangdong-gu,강동구,11,Seoul,서울특별시,9574.1173630528,96
+461,11740105,Gil-dong,길동,11740,Gangdong-gu,강동구,11,Seoul,서울특별시,6443.27380115364,146
+462,11740106,Dunchon-dong,둔촌동,11740,Gangdong-gu,강동구,11,Seoul,서울특별시,4346.00493737798,70
+463,11740107,Amsa-dong,암사동,11740,Gangdong-gu,강동구,11,Seoul,서울특별시,12519.6843425384,176
+464,11740108,Seongnae-dong,성내동,11740,Gangdong-gu,강동구,11,Seoul,서울특별시,9863.52185863341,260
+465,11740109,Cheonho-dong,천호동,11740,Gangdong-gu,강동구,11,Seoul,서울특별시,10721.0354113282,215
+466,11740110,Gangil-dong,강일동,11740,Gangdong-gu,강동구,11,Seoul,서울특별시,2162.11188677782,19
